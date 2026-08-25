@@ -10,6 +10,7 @@ namespace Assignment
 
         void Start()
         {
+            //ส่งใหม่ Nopparat1680702527
             // LCT01_SyntaxArray();
             // LCT02_ArrayInitialize();
             // LCT03_SyntaxLoop();
